@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    padding: 10em;
+    padding: 5em;
     gap: 50px ;
 }
 
