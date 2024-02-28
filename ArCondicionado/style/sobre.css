@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigshot+One&display=swap');
+
+.button{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 107em;
+}
+
+.about{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding: 4em 0;
+}
+
+.about_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.title{
+    font-family: 'Bigshot one', serif;
+    font-size: 36px;
+    font-weight: 400;
+    color: #015696;
+    text-align: center;
+
+}
+
+.text{
+width: 60%;
+
+font-family: 'Literata';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+text-align: center;
+
+color: #015696;
+}
+
+.icon-ice{
+    width: 15em;
+    height: 15em;
+}
